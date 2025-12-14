@@ -1,0 +1,528 @@
+country,age_group,active_user,total_events
+Afghanistan,36+,1,61
+Afghanistan,26-35,2,125
+Albania,26-35,1,64
+Albania,36+,3,182
+Albania,18-25,2,127
+Algeria,36+,3,195
+Algeria,26-35,5,305
+American Samoa,18-25,1,65
+American Samoa,26-35,2,134
+American Samoa,36+,5,329
+Andorra,26-35,2,112
+Andorra,18-25,1,66
+Andorra,36+,3,191
+Angola,36+,3,183
+Angola,26-35,1,66
+Anguilla,26-35,1,64
+Anguilla,36+,1,68
+Anguilla,18-25,1,64
+Antarctica (the territory South of 60 deg S),36+,1,56
+Antarctica (the territory South of 60 deg S),26-35,3,190
+Antigua and Barbuda,36+,1,65
+Antigua and Barbuda,26-35,1,60
+Argentina,36+,1,66
+Argentina,18-25,1,66
+Argentina,26-35,1,62
+Armenia,26-35,1,72
+Aruba,26-35,1,56
+Aruba,36+,4,245
+Australia,18-25,2,130
+Australia,36+,1,61
+Australia,26-35,3,191
+Austria,18-25,1,53
+Azerbaijan,26-35,1,65
+Azerbaijan,18-25,1,52
+Azerbaijan,36+,4,259
+Bahamas,18-25,1,65
+Bahamas,36+,6,365
+Bahamas,26-35,2,118
+Bahrain,36+,5,320
+Bahrain,26-35,1,74
+Bahrain,18-25,1,58
+Bangladesh,18-25,1,66
+Bangladesh,26-35,3,185
+Barbados,26-35,1,68
+Barbados,36+,5,317
+Belarus,18-25,2,116
+Belarus,26-35,1,67
+Belarus,36+,3,178
+Belgium,18-25,1,57
+Belgium,36+,3,191
+Belgium,26-35,2,128
+Belize,18-25,2,122
+Belize,36+,2,120
+Benin,26-35,1,69
+Benin,36+,2,131
+Bermuda,18-25,1,63
+Bermuda,26-35,2,125
+Bermuda,36+,1,63
+Bhutan,18-25,1,73
+Bolivia,18-25,1,61
+Bolivia,36+,3,188
+Bosnia and Herzegovina,18-25,2,131
+Bosnia and Herzegovina,26-35,1,60
+Bosnia and Herzegovina,36+,2,129
+Botswana,26-35,1,74
+Botswana,36+,1,60
+Bouvet Island (Bouvetoya),18-25,2,129
+Bouvet Island (Bouvetoya),36+,1,68
+Bouvet Island (Bouvetoya),26-35,2,136
+Brazil,18-25,1,67
+Brazil,26-35,1,62
+British Indian Ocean Territory (Chagos Archipelago),36+,4,238
+British Indian Ocean Territory (Chagos Archipelago),18-25,1,64
+British Virgin Islands,26-35,2,124
+British Virgin Islands,36+,3,207
+Brunei Darussalam,18-25,1,65
+Brunei Darussalam,36+,2,121
+Bulgaria,26-35,5,314
+Burkina Faso,26-35,2,137
+Burkina Faso,36+,2,130
+Burundi,26-35,1,62
+Burundi,36+,3,188
+Cambodia,26-35,1,56
+Cameroon,26-35,1,61
+Canada,36+,1,60
+Canada,18-25,1,63
+Canada,26-35,1,56
+Cape Verde,26-35,1,67
+Cape Verde,36+,1,63
+Cape Verde,18-25,1,67
+Cayman Islands,26-35,3,190
+Cayman Islands,36+,3,192
+Central African Republic,26-35,1,59
+Central African Republic,36+,4,258
+Central African Republic,18-25,2,123
+Chad,36+,3,192
+Chile,36+,1,73
+Christmas Island,26-35,4,248
+Christmas Island,18-25,1,61
+Christmas Island,36+,2,137
+Cocos (Keeling) Islands,36+,1,65
+Colombia,26-35,1,50
+Colombia,36+,3,184
+Colombia,18-25,2,134
+Comoros,18-25,2,138
+Comoros,36+,1,63
+Congo,36+,3,198
+Congo,26-35,2,129
+Congo,18-25,2,123
+Cook Islands,26-35,2,144
+Cook Islands,18-25,2,114
+Cook Islands,36+,6,387
+Costa Rica,26-35,1,66
+Costa Rica,36+,2,117
+Cote d'Ivoire,18-25,1,64
+Cote d'Ivoire,26-35,3,198
+Cote d'Ivoire,36+,1,70
+Croatia,26-35,1,58
+Croatia,36+,3,184
+Cuba,36+,1,59
+Cuba,26-35,2,114
+Cuba,18-25,1,59
+Cyprus,36+,1,64
+Cyprus,18-25,2,129
+Czech Republic,36+,2,136
+Denmark,36+,2,138
+Djibouti,26-35,3,187
+Djibouti,36+,5,335
+Dominica,26-35,2,121
+Dominica,36+,3,182
+Dominican Republic,26-35,1,68
+Ecuador,36+,2,129
+Ecuador,26-35,1,54
+Egypt,26-35,2,120
+Egypt,36+,4,253
+El Salvador,36+,2,120
+Equatorial Guinea,36+,1,65
+Equatorial Guinea,18-25,1,62
+Equatorial Guinea,26-35,1,48
+Eritrea,18-25,1,64
+Eritrea,36+,3,193
+Eritrea,26-35,2,132
+Estonia,26-35,2,125
+Estonia,18-25,1,68
+Estonia,36+,1,68
+Ethiopia,26-35,1,62
+Ethiopia,18-25,1,60
+Falkland Islands (Malvinas),36+,2,128
+Falkland Islands (Malvinas),26-35,3,193
+Falkland Islands (Malvinas),18-25,2,140
+Faroe Islands,18-25,1,57
+Faroe Islands,26-35,1,52
+Faroe Islands,36+,3,185
+Fiji,26-35,2,131
+Finland,36+,2,131
+France,18-25,2,138
+France,36+,4,224
+French Guiana,26-35,1,65
+French Guiana,36+,1,65
+French Polynesia,18-25,1,61
+French Polynesia,36+,1,67
+French Southern Territories,26-35,1,67
+French Southern Territories,36+,2,142
+French Southern Territories,18-25,1,62
+Gabon,18-25,1,71
+Gabon,36+,4,265
+Gabon,26-35,1,68
+Gambia,36+,4,225
+Gambia,26-35,2,122
+Germany,36+,1,70
+Germany,18-25,1,70
+Ghana,36+,1,60
+Ghana,26-35,3,171
+Gibraltar,26-35,1,61
+Gibraltar,18-25,1,63
+Gibraltar,36+,4,257
+Greece,36+,3,186
+Greenland,36+,3,183
+Greenland,18-25,1,67
+Grenada,36+,4,249
+Grenada,18-25,3,204
+Guadeloupe,36+,4,247
+Guam,36+,2,132
+Guam,26-35,1,65
+Guam,18-25,2,129
+Guatemala,36+,2,126
+Guatemala,26-35,1,64
+Guernsey,36+,1,67
+Guinea,36+,1,63
+Guinea,26-35,2,110
+Guinea-Bissau,26-35,1,77
+Guinea-Bissau,18-25,2,135
+Guinea-Bissau,36+,2,126
+Guyana,26-35,3,168
+Guyana,36+,3,191
+Haiti,36+,1,62
+Haiti,26-35,1,65
+Haiti,18-25,2,136
+Heard Island and McDonald Islands,18-25,3,183
+Heard Island and McDonald Islands,36+,1,63
+Heard Island and McDonald Islands,26-35,1,67
+Holy See (Vatican City State),26-35,3,192
+Honduras,36+,3,199
+Honduras,18-25,2,120
+Honduras,26-35,1,62
+Hong Kong,36+,3,201
+Hong Kong,18-25,3,196
+Hungary,36+,2,127
+Hungary,26-35,2,121
+Hungary,18-25,1,64
+Iceland,26-35,3,199
+Iceland,36+,2,133
+India,18-25,3,197
+India,26-35,1,62
+India,36+,1,59
+Indonesia,36+,1,60
+Indonesia,26-35,1,56
+Iran,26-35,1,74
+Iran,18-25,2,122
+Iraq,18-25,2,127
+Iraq,36+,1,66
+Iraq,26-35,2,121
+Ireland,26-35,2,141
+Ireland,18-25,1,59
+Ireland,36+,1,65
+Isle of Man,26-35,1,73
+Isle of Man,36+,2,137
+Italy,18-25,4,267
+Italy,26-35,1,53
+Italy,36+,2,123
+Jamaica,36+,1,61
+Jamaica,18-25,1,64
+Japan,36+,2,127
+Japan,26-35,3,181
+Jersey,18-25,1,68
+Jersey,36+,3,202
+Jersey,26-35,3,194
+Jordan,26-35,2,108
+Jordan,18-25,1,61
+Kazakhstan,18-25,1,59
+Kazakhstan,36+,3,179
+Kenya,36+,3,176
+Kenya,26-35,2,135
+Kenya,18-25,1,67
+Kiribati,26-35,2,141
+Kiribati,18-25,3,192
+Kiribati,36+,1,74
+Korea,36+,4,258
+Korea,26-35,5,311
+Kuwait,36+,5,314
+Kyrgyz Republic,36+,2,138
+Kyrgyz Republic,26-35,2,121
+Lao People's Democratic Republic,36+,1,63
+Lao People's Democratic Republic,18-25,2,115
+Lao People's Democratic Republic,26-35,1,61
+Latvia,26-35,3,178
+Latvia,36+,2,131
+Lebanon,36+,4,264
+Lebanon,26-35,3,199
+Lesotho,36+,3,173
+Lesotho,18-25,2,128
+Lesotho,26-35,1,66
+Liberia,36+,3,182
+Liberia,26-35,3,196
+Liberia,18-25,2,131
+Libyan Arab Jamahiriya,36+,2,118
+Liechtenstein,36+,1,60
+Liechtenstein,18-25,3,202
+Lithuania,18-25,1,55
+Lithuania,36+,1,57
+Luxembourg,36+,1,69
+Luxembourg,26-35,3,197
+Macao,18-25,2,128
+Macao,36+,3,174
+Macao,26-35,1,55
+Madagascar,36+,1,59
+Madagascar,18-25,1,69
+Malawi,18-25,1,73
+Malaysia,26-35,2,131
+Malaysia,18-25,1,63
+Malaysia,36+,2,120
+Maldives,18-25,2,138
+Maldives,26-35,3,189
+Mali,36+,3,193
+Malta,26-35,2,130
+Malta,36+,2,126
+Malta,18-25,2,121
+Marshall Islands,36+,1,74
+Marshall Islands,18-25,1,69
+Martinique,18-25,1,57
+Martinique,36+,4,236
+Martinique,26-35,3,192
+Mauritania,36+,2,137
+Mauritius,36+,2,124
+Mauritius,18-25,1,59
+Mauritius,26-35,3,177
+Mayotte,18-25,2,118
+Mayotte,36+,1,62
+Mayotte,26-35,1,64
+Mexico,18-25,1,61
+Mexico,36+,2,135
+Micronesia,18-25,2,137
+Micronesia,36+,3,211
+Micronesia,26-35,1,65
+Moldova,26-35,1,70
+Monaco,36+,1,68
+Monaco,26-35,1,65
+Mongolia,26-35,2,137
+Mongolia,36+,3,208
+Montenegro,18-25,3,191
+Montenegro,26-35,4,248
+Montenegro,36+,2,120
+Montserrat,26-35,2,131
+Montserrat,36+,4,254
+Morocco,36+,3,196
+Morocco,26-35,1,68
+Mozambique,36+,2,118
+Mozambique,26-35,2,139
+Myanmar,36+,2,122
+Namibia,26-35,1,69
+Namibia,36+,2,124
+Nauru,26-35,1,77
+Nauru,36+,1,63
+Nepal,36+,5,289
+Nepal,18-25,2,119
+Nepal,26-35,1,63
+Netherlands,18-25,1,68
+Netherlands Antilles,36+,2,113
+Netherlands Antilles,18-25,1,65
+Netherlands Antilles,26-35,1,65
+New Caledonia,36+,4,245
+New Caledonia,18-25,1,56
+New Zealand,26-35,1,79
+New Zealand,36+,2,130
+Nicaragua,36+,2,125
+Nicaragua,26-35,2,123
+Niger,18-25,2,129
+Niger,36+,2,141
+Nigeria,18-25,2,118
+Nigeria,26-35,2,122
+Niue,36+,1,60
+Norfolk Island,36+,3,190
+Norfolk Island,26-35,4,283
+Norfolk Island,18-25,1,57
+North Macedonia,36+,1,73
+North Macedonia,18-25,1,69
+North Macedonia,26-35,1,62
+Northern Mariana Islands,36+,2,116
+Norway,36+,2,138
+Norway,26-35,2,128
+Oman,26-35,1,56
+Oman,36+,1,57
+Pakistan,18-25,2,137
+Pakistan,26-35,2,123
+Pakistan,36+,4,271
+Palau,36+,5,328
+Palau,18-25,1,61
+Palau,26-35,1,64
+Palestinian Territory,36+,4,272
+Palestinian Territory,26-35,3,198
+Panama,18-25,2,127
+Panama,36+,3,175
+Panama,26-35,1,62
+Papua New Guinea,26-35,2,113
+Papua New Guinea,36+,3,182
+Paraguay,36+,1,58
+Paraguay,18-25,1,57
+Paraguay,26-35,1,58
+Peru,36+,1,62
+Philippines,26-35,1,66
+Philippines,18-25,1,66
+Philippines,36+,1,71
+Pitcairn Islands,36+,3,180
+Poland,18-25,1,70
+Poland,36+,1,64
+Portugal,18-25,1,68
+Portugal,36+,2,125
+Puerto Rico,36+,1,73
+Puerto Rico,18-25,2,120
+Qatar,26-35,1,62
+Qatar,36+,4,272
+Qatar,18-25,2,127
+Reunion,36+,4,242
+Romania,18-25,2,127
+Romania,36+,1,77
+Romania,26-35,1,56
+Russian Federation,26-35,1,66
+Rwanda,26-35,2,127
+Rwanda,36+,3,191
+Rwanda,18-25,1,68
+Saint Barthelemy,18-25,1,66
+Saint Barthelemy,36+,1,63
+Saint Helena,26-35,2,140
+Saint Helena,36+,1,64
+Saint Kitts and Nevis,26-35,2,117
+Saint Kitts and Nevis,18-25,1,68
+Saint Lucia,36+,1,63
+Saint Lucia,18-25,1,67
+Saint Martin,36+,5,298
+Saint Pierre and Miquelon,26-35,1,54
+Saint Pierre and Miquelon,18-25,1,65
+Saint Pierre and Miquelon,36+,1,58
+Saint Vincent and the Grenadines,36+,3,181
+Saint Vincent and the Grenadines,26-35,1,69
+Samoa,26-35,1,53
+Samoa,18-25,1,51
+Samoa,36+,1,66
+San Marino,36+,1,66
+Sao Tome and Principe,26-35,2,135
+Sao Tome and Principe,18-25,2,118
+Sao Tome and Principe,36+,3,216
+Saudi Arabia,18-25,1,64
+Saudi Arabia,26-35,1,66
+Saudi Arabia,36+,1,60
+Senegal,18-25,1,56
+Senegal,36+,2,120
+Serbia,26-35,1,62
+Serbia,36+,3,183
+Serbia,18-25,1,49
+Seychelles,36+,1,62
+Seychelles,26-35,2,134
+Sierra Leone,26-35,3,195
+Sierra Leone,36+,3,192
+Singapore,36+,1,68
+Slovakia (Slovak Republic),36+,2,131
+Slovenia,26-35,2,130
+Slovenia,36+,4,253
+Slovenia,18-25,2,123
+Solomon Islands,18-25,1,70
+Solomon Islands,36+,4,255
+Solomon Islands,26-35,1,63
+Somalia,26-35,1,59
+Somalia,36+,3,197
+South Africa,36+,1,62
+South Georgia and the South Sandwich Islands,36+,1,64
+South Georgia and the South Sandwich Islands,26-35,1,67
+Spain,18-25,1,60
+Spain,36+,1,65
+Sri Lanka,26-35,3,177
+Sri Lanka,18-25,2,118
+Sri Lanka,36+,5,317
+Sudan,18-25,1,64
+Sudan,36+,2,120
+Suriname,36+,1,64
+Suriname,26-35,1,59
+Suriname,18-25,2,117
+Svalbard & Jan Mayen Islands,26-35,3,177
+Svalbard & Jan Mayen Islands,18-25,2,113
+Svalbard & Jan Mayen Islands,36+,2,140
+Swaziland,18-25,1,65
+Swaziland,36+,1,72
+Sweden,26-35,3,187
+Switzerland,36+,3,204
+Switzerland,26-35,1,58
+Syrian Arab Republic,36+,4,241
+Syrian Arab Republic,26-35,2,135
+Taiwan,18-25,1,71
+Taiwan,26-35,1,57
+Taiwan,36+,3,195
+Tajikistan,26-35,2,129
+Tajikistan,18-25,1,55
+Tajikistan,36+,1,46
+Tanzania,26-35,1,55
+Tanzania,36+,2,109
+Thailand,18-25,1,60
+Thailand,36+,4,271
+Thailand,26-35,1,70
+Timor-Leste,26-35,1,73
+Timor-Leste,18-25,1,59
+Togo,36+,2,106
+Togo,26-35,1,60
+Tokelau,36+,3,165
+Tokelau,26-35,2,127
+Tonga,26-35,2,130
+Tonga,18-25,1,69
+Tonga,36+,3,200
+Trinidad and Tobago,26-35,1,73
+Trinidad and Tobago,18-25,1,57
+Trinidad and Tobago,36+,2,117
+Tunisia,18-25,2,129
+Tunisia,36+,4,274
+Turkey,18-25,2,126
+Turkey,36+,1,68
+Turkmenistan,36+,1,59
+Turks and Caicos Islands,26-35,1,69
+Tuvalu,36+,1,65
+Tuvalu,26-35,2,138
+Uganda,36+,1,59
+Uganda,18-25,1,60
+Ukraine,26-35,4,261
+Ukraine,36+,2,135
+United Arab Emirates,26-35,3,203
+United Arab Emirates,36+,1,69
+United Arab Emirates,18-25,2,128
+United Kingdom,36+,6,389
+United Kingdom,18-25,2,135
+United Kingdom,26-35,1,58
+United States Minor Outlying Islands,18-25,1,57
+United States Minor Outlying Islands,36+,2,120
+United States Minor Outlying Islands,26-35,1,64
+United States of America,26-35,3,178
+United States of America,18-25,1,70
+United States of America,36+,1,67
+Uruguay,36+,4,241
+Uruguay,18-25,1,61
+Uzbekistan,18-25,2,132
+Uzbekistan,36+,2,125
+Uzbekistan,26-35,2,127
+Vanuatu,26-35,2,127
+Vanuatu,36+,2,122
+Venezuela,26-35,3,193
+Venezuela,36+,1,64
+Vietnam,18-25,1,66
+Vietnam,36+,3,189
+Vietnam,26-35,1,63
+Wallis and Futuna,26-35,2,125
+Wallis and Futuna,18-25,1,68
+Wallis and Futuna,36+,1,64
+Western Sahara,26-35,1,65
+Western Sahara,36+,1,67
+Yemen,18-25,1,73
+Yemen,36+,2,133
+Yemen,26-35,1,70
+Zambia,26-35,1,57
+Zambia,36+,3,187
+Zimbabwe,36+,2,133
+Zimbabwe,26-35,2,121

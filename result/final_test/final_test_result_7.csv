@@ -1,0 +1,509 @@
+user_id,user_name,joined_date,date_of_birth,user_country,game_id,game_title,launch_date,version,platform
+3,jonathansosa,2024-02-22,1994-01-03,South Africa,9,Game_9,2024-05-20,1.1,Console
+4,martindaniel,2024-06-10,1987-01-23,South Africa,4,Game_4,2023-03-19,2.1,Mobile
+8,robert86,2024-04-22,2005-07-19,South Africa,3,Game_3,2024-09-11,2.8,Mobile
+11,ryan56,2024-01-24,1978-01-02,South Africa,6,Game_6,2024-05-31,2.6,Console
+14,susanmyers,2023-12-22,1994-05-11,South Africa,4,Game_4,2023-03-19,2.1,Mobile
+16,james61,2024-08-11,2007-07-01,South Africa,3,Game_3,2024-09-11,2.8,Mobile
+17,smcintosh,2024-08-18,1993-11-14,South Africa,8,Game_8,2023-03-31,3.7,Console
+18,russelljason,2024-11-06,1983-05-28,South Africa,4,Game_4,2023-03-19,2.1,Mobile
+20,qmorrow,2024-02-22,1977-01-25,South Africa,3,Game_3,2024-09-11,2.8,Mobile
+22,bartlettjohn,2023-12-14,1977-06-25,Estonia,9,Game_9,2024-05-20,1.1,Console
+23,samuel63,2024-10-01,1978-09-04,Estonia,6,Game_6,2024-05-31,2.6,Console
+26,patrick87,2024-09-03,1976-05-13,Estonia,6,Game_6,2024-05-31,2.6,Console
+27,nstephens,2024-02-29,1996-05-09,Estonia,10,Game_10,2024-01-20,2.3,Console
+32,whampton,2024-10-27,1979-09-27,Estonia,4,Game_4,2023-03-19,2.1,Mobile
+33,harrisonallison,2024-04-07,1984-07-16,Estonia,1,Game_1,2024-09-21,1.0,Console
+35,calvarez,2024-08-21,2007-06-03,Estonia,4,Game_4,2023-03-19,2.1,Mobile
+37,bookerryan,2024-06-01,1985-12-23,Estonia,7,Game_7,2023-04-13,2.9,PC
+39,thiggins,2024-04-22,1997-03-10,Estonia,3,Game_3,2024-09-11,2.8,Mobile
+40,anthony62,2024-03-16,1995-05-31,Estonia,6,Game_6,2024-05-31,2.6,Console
+41,justinmoore,2023-12-08,1990-04-21,Estonia,3,Game_3,2024-09-11,2.8,Mobile
+44,haleann,2024-11-07,1976-12-24,Estonia,2,Game_2,2023-02-10,2.8,Mobile
+45,wilsonlisa,2024-10-10,2004-01-15,Estonia,5,Game_5,2024-05-10,3.3,Mobile
+49,dperez,2024-06-13,1996-10-27,Estonia,4,Game_4,2023-03-19,2.1,Mobile
+52,caroline44,2024-08-18,2004-02-17,Estonia,1,Game_1,2024-09-21,1.0,Console
+53,adamsjay,2024-08-31,1978-06-21,Estonia,5,Game_5,2024-05-10,3.3,Mobile
+54,swinters,2024-10-25,1977-12-29,Estonia,5,Game_5,2024-05-10,3.3,Mobile
+55,umathis,2023-11-30,1975-10-22,Estonia,9,Game_9,2024-05-20,1.1,Console
+56,jacobsseth,2024-06-25,1997-01-14,Estonia,6,Game_6,2024-05-31,2.6,Console
+58,ochoamary,2024-01-11,1987-10-11,Estonia,2,Game_2,2023-02-10,2.8,Mobile
+59,millsjoseph,2024-08-23,2000-09-26,Estonia,1,Game_1,2024-09-21,1.0,Console
+60,billysullivan,2024-07-10,1975-07-19,Estonia,1,Game_1,2024-09-21,1.0,Console
+62,davidbutler,2024-04-25,1989-04-09,Estonia,3,Game_3,2024-09-11,2.8,Mobile
+63,austinjenny,2024-08-12,1976-02-02,Estonia,1,Game_1,2024-09-21,1.0,Console
+66,jessicabecker,2024-06-13,1991-12-30,Cote d'Ivoire,1,Game_1,2024-09-21,1.0,Console
+67,emilywu,2024-05-31,1976-01-26,Cote d'Ivoire,4,Game_4,2023-03-19,2.1,Mobile
+68,adrianmartin,2024-05-22,1996-10-27,Cote d'Ivoire,5,Game_5,2024-05-10,3.3,Mobile
+71,kevinhester,2024-02-12,1994-04-18,Cote d'Ivoire,9,Game_9,2024-05-20,1.1,Console
+73,isantiago,2024-08-13,1999-01-21,Djibouti,7,Game_7,2023-04-13,2.9,PC
+74,whitesierra,2024-08-31,1976-05-27,Djibouti,7,Game_7,2023-04-13,2.9,PC
+76,davidhoward,2024-09-03,1999-02-05,Djibouti,5,Game_5,2024-05-10,3.3,Mobile
+77,courtney08,2024-07-29,1981-03-06,Qatar,10,Game_10,2024-01-20,2.3,Console
+79,cindywiggins,2024-05-12,2000-04-02,Qatar,8,Game_8,2023-03-31,3.7,Console
+81,wward,2024-09-26,1983-08-15,Qatar,9,Game_9,2024-05-20,1.1,Console
+82,eknapp,2024-01-20,1996-11-26,Qatar,5,Game_5,2024-05-10,3.3,Mobile
+83,ruben58,2024-09-23,1996-05-27,Qatar,8,Game_8,2023-03-31,3.7,Console
+84,orrmaria,2023-11-30,1975-09-03,Somalia,5,Game_5,2024-05-10,3.3,Mobile
+86,lijack,2024-07-08,2007-06-14,Somalia,8,Game_8,2023-03-31,3.7,Console
+88,brenda88,2024-02-10,2006-06-16,Somalia,7,Game_7,2023-04-13,2.9,PC
+89,fpotter,2023-12-21,1994-05-14,Somalia,8,Game_8,2023-03-31,3.7,Console
+91,colemanheather,2024-03-28,2002-06-13,Somalia,7,Game_7,2023-04-13,2.9,PC
+92,chenmichael,2023-12-05,1993-06-18,Somalia,4,Game_4,2023-03-19,2.1,Mobile
+93,colleen33,2024-03-14,1975-08-15,Somalia,10,Game_10,2024-01-20,2.3,Console
+96,wtorres,2024-06-16,1979-06-10,Maldives,4,Game_4,2023-03-19,2.1,Mobile
+98,glarson,2023-12-18,2005-09-04,Maldives,7,Game_7,2023-04-13,2.9,PC
+102,awatts,2024-03-12,2000-10-09,Korea,7,Game_7,2023-04-13,2.9,PC
+104,inorton,2024-07-05,1984-06-09,Korea,2,Game_2,2023-02-10,2.8,Mobile
+106,robinsonsteven,2024-10-02,2007-06-09,Korea,5,Game_5,2024-05-10,3.3,Mobile
+107,robertdeleon,2024-11-01,2006-09-12,Korea,1,Game_1,2024-09-21,1.0,Console
+108,paul08,2024-05-01,1983-03-19,Korea,9,Game_9,2024-05-20,1.1,Console
+109,brenda67,2024-11-16,1977-03-12,Korea,9,Game_9,2024-05-20,1.1,Console
+110,jacobsashley,2023-12-01,1982-03-19,Korea,8,Game_8,2023-03-31,3.7,Console
+112,qanderson,2024-03-23,1998-03-15,Micronesia,3,Game_3,2024-09-11,2.8,Mobile
+116,lawrencemclaughlin,2024-05-06,1978-04-02,Micronesia,9,Game_9,2024-05-20,1.1,Console
+117,ashleychristensen,2024-11-10,2005-11-14,Micronesia,3,Game_3,2024-09-11,2.8,Mobile
+118,odillon,2024-06-20,1991-09-18,Micronesia,4,Game_4,2023-03-19,2.1,Mobile
+120,hayesgabrielle,2024-08-19,1986-11-04,Micronesia,10,Game_10,2024-01-20,2.3,Console
+124,kristy24,2024-05-14,1990-10-18,Zambia,7,Game_7,2023-04-13,2.9,PC
+125,olivia97,2024-08-20,2000-05-14,Zambia,10,Game_10,2024-01-20,2.3,Console
+126,sonya88,2023-11-20,2006-10-29,Zambia,9,Game_9,2024-05-20,1.1,Console
+131,patrick72,2024-07-05,1998-07-22,Zambia,1,Game_1,2024-09-21,1.0,Console
+132,mark94,2024-05-31,1997-03-26,Zambia,6,Game_6,2024-05-31,2.6,Console
+136,daviesjamie,2024-01-06,1993-03-26,Falkland Islands (Malvinas),8,Game_8,2023-03-31,3.7,Console
+138,bleonard,2024-03-17,2006-04-05,Falkland Islands (Malvinas),6,Game_6,2024-05-31,2.6,Console
+140,wallslauren,2024-08-06,1998-04-01,Falkland Islands (Malvinas),9,Game_9,2024-05-20,1.1,Console
+141,carlos54,2024-01-12,1985-12-21,Falkland Islands (Malvinas),7,Game_7,2023-04-13,2.9,PC
+143,dthomas,2024-06-18,1991-06-06,Falkland Islands (Malvinas),4,Game_4,2023-03-19,2.1,Mobile
+146,jay99,2023-12-06,1978-07-15,Falkland Islands (Malvinas),4,Game_4,2023-03-19,2.1,Mobile
+148,bryanrebecca,2024-01-01,1975-07-06,Falkland Islands (Malvinas),10,Game_10,2024-01-20,2.3,Console
+150,mooreamanda,2024-01-01,1988-11-19,Falkland Islands (Malvinas),9,Game_9,2024-05-20,1.1,Console
+151,theodorefletcher,2024-03-13,1976-06-07,Falkland Islands (Malvinas),8,Game_8,2023-03-31,3.7,Console
+152,vbaker,2024-10-01,1987-07-27,Falkland Islands (Malvinas),4,Game_4,2023-03-19,2.1,Mobile
+153,rlawrence,2024-08-01,2005-01-11,Falkland Islands (Malvinas),3,Game_3,2024-09-11,2.8,Mobile
+154,hannahsoto,2024-02-04,2002-05-17,Falkland Islands (Malvinas),10,Game_10,2024-01-20,2.3,Console
+159,kenneth40,2024-03-18,1979-02-27,Falkland Islands (Malvinas),3,Game_3,2024-09-11,2.8,Mobile
+160,lneal,2024-06-19,1997-01-15,Falkland Islands (Malvinas),2,Game_2,2023-02-10,2.8,Mobile
+161,lance23,2023-12-11,1981-11-25,Sao Tome and Principe,4,Game_4,2023-03-19,2.1,Mobile
+162,jhill,2024-08-05,2000-03-25,Sao Tome and Principe,10,Game_10,2024-01-20,2.3,Console
+163,cescobar,2024-01-09,2003-06-10,Sao Tome and Principe,6,Game_6,2024-05-31,2.6,Console
+164,markwong,2024-05-03,1996-02-17,Sao Tome and Principe,7,Game_7,2023-04-13,2.9,PC
+165,morgan48,2024-01-21,1999-01-11,Sao Tome and Principe,5,Game_5,2024-05-10,3.3,Mobile
+169,danahernandez,2024-06-21,1975-11-04,Sao Tome and Principe,5,Game_5,2024-05-10,3.3,Mobile
+172,vrivera,2024-04-13,1987-04-22,Sao Tome and Principe,1,Game_1,2024-09-21,1.0,Console
+176,lorimarshall,2024-05-06,2003-01-18,Sao Tome and Principe,10,Game_10,2024-01-20,2.3,Console
+177,lewiswilliam,2024-04-06,1993-05-16,Sao Tome and Principe,2,Game_2,2023-02-10,2.8,Mobile
+180,sarahbird,2023-11-28,2002-04-11,Sao Tome and Principe,7,Game_7,2023-04-13,2.9,PC
+182,ykirby,2023-11-29,1976-05-25,Sao Tome and Principe,8,Game_8,2023-03-31,3.7,Console
+184,bushnicole,2024-07-27,2002-02-18,Sao Tome and Principe,4,Game_4,2023-03-19,2.1,Mobile
+185,jeffrey64,2024-11-07,2001-01-25,Sao Tome and Principe,3,Game_3,2024-09-11,2.8,Mobile
+187,gillwilliam,2024-05-23,1997-09-09,Sao Tome and Principe,7,Game_7,2023-04-13,2.9,PC
+188,brentmartinez,2024-04-14,2003-07-24,Sao Tome and Principe,2,Game_2,2023-02-10,2.8,Mobile
+189,aadams,2024-06-05,1986-10-05,Sao Tome and Principe,7,Game_7,2023-04-13,2.9,PC
+190,desiree09,2024-11-14,2005-05-14,Sao Tome and Principe,4,Game_4,2023-03-19,2.1,Mobile
+191,kathleenbrown,2024-10-26,2002-08-26,Sao Tome and Principe,4,Game_4,2023-03-19,2.1,Mobile
+192,barbarapayne,2024-03-12,1981-08-15,Sao Tome and Principe,5,Game_5,2024-05-10,3.3,Mobile
+193,leslie97,2023-12-06,1975-03-27,Sao Tome and Principe,6,Game_6,2024-05-31,2.6,Console
+194,tayloralex,2024-03-19,2001-11-30,Sao Tome and Principe,7,Game_7,2023-04-13,2.9,PC
+195,zjenkins,2024-08-28,1988-05-31,Djibouti,1,Game_1,2024-09-21,1.0,Console
+196,millsmichelle,2024-03-09,1995-11-16,Italy,7,Game_7,2023-04-13,2.9,PC
+198,evansjoseph,2024-08-16,1990-08-21,British Virgin Islands,3,Game_3,2024-09-11,2.8,Mobile
+199,sonia81,2024-02-08,1981-04-29,British Virgin Islands,6,Game_6,2024-05-31,2.6,Console
+200,pamela69,2024-07-31,1984-11-10,British Virgin Islands,9,Game_9,2024-05-20,1.1,Console
+201,mark13,2024-01-13,2000-06-15,British Virgin Islands,4,Game_4,2023-03-19,2.1,Mobile
+202,orrjoanna,2024-01-23,1994-04-10,British Virgin Islands,10,Game_10,2024-01-20,2.3,Console
+205,ggriffin,2023-12-13,1984-12-30,British Virgin Islands,9,Game_9,2024-05-20,1.1,Console
+207,masongregory,2024-05-02,1978-07-10,British Virgin Islands,8,Game_8,2023-03-31,3.7,Console
+210,kellymary,2024-08-02,1981-12-14,British Virgin Islands,6,Game_6,2024-05-31,2.6,Console
+211,lchambers,2024-08-17,1995-08-26,British Virgin Islands,8,Game_8,2023-03-31,3.7,Console
+215,anthonymcdonald,2024-07-13,1977-02-28,British Virgin Islands,1,Game_1,2024-09-21,1.0,Console
+216,matthewlopez,2024-03-22,1979-04-16,British Virgin Islands,9,Game_9,2024-05-20,1.1,Console
+219,yjohnson,2024-01-04,1995-11-09,British Virgin Islands,3,Game_3,2024-09-11,2.8,Mobile
+220,peter72,2024-04-26,1976-09-12,British Virgin Islands,3,Game_3,2024-09-11,2.8,Mobile
+222,peterwhitney,2024-03-02,1995-01-05,British Virgin Islands,5,Game_5,2024-05-10,3.3,Mobile
+223,charlessmith,2024-07-03,1991-02-05,British Virgin Islands,6,Game_6,2024-05-31,2.6,Console
+224,anthony72,2024-07-27,1977-02-12,British Virgin Islands,10,Game_10,2024-01-20,2.3,Console
+225,arios,2024-06-12,1995-08-10,British Virgin Islands,7,Game_7,2023-04-13,2.9,PC
+227,ldavid,2024-01-29,1996-05-24,British Virgin Islands,8,Game_8,2023-03-31,3.7,Console
+231,heatherbond,2024-07-26,2000-07-24,British Virgin Islands,2,Game_2,2023-02-10,2.8,Mobile
+235,josekennedy,2024-08-06,1976-12-25,Syrian Arab Republic,1,Game_1,2024-09-21,1.0,Console
+236,james36,2023-12-19,1979-07-03,Syrian Arab Republic,7,Game_7,2023-04-13,2.9,PC
+237,blackburnandrew,2024-07-25,2006-03-07,Syrian Arab Republic,8,Game_8,2023-03-31,3.7,Console
+238,mahoneyaaron,2024-04-14,1984-12-02,Syrian Arab Republic,5,Game_5,2024-05-10,3.3,Mobile
+240,ddixon,2024-09-29,2006-08-16,Syrian Arab Republic,4,Game_4,2023-03-19,2.1,Mobile
+245,bryan44,2024-07-06,1988-03-30,Syrian Arab Republic,10,Game_10,2024-01-20,2.3,Console
+246,deborah30,2024-05-19,1977-01-17,Syrian Arab Republic,10,Game_10,2024-01-20,2.3,Console
+248,karen50,2024-08-23,2006-05-14,Syrian Arab Republic,3,Game_3,2024-09-11,2.8,Mobile
+249,qbailey,2024-08-09,1979-02-04,Syrian Arab Republic,9,Game_9,2024-05-20,1.1,Console
+253,iherring,2023-11-20,1996-06-22,Syrian Arab Republic,8,Game_8,2023-03-31,3.7,Console
+257,johngarrison,2024-03-19,1998-01-15,Syrian Arab Republic,2,Game_2,2023-02-10,2.8,Mobile
+258,billy07,2024-03-31,2007-02-02,Syrian Arab Republic,8,Game_8,2023-03-31,3.7,Console
+262,cindycampbell,2024-09-22,2007-04-22,Bahrain,3,Game_3,2024-09-11,2.8,Mobile
+263,kara43,2024-02-10,2004-11-15,Bahrain,2,Game_2,2023-02-10,2.8,Mobile
+266,tpollard,2024-07-30,1980-01-17,Bahrain,9,Game_9,2024-05-20,1.1,Console
+267,joseph06,2024-06-16,1979-01-06,Bahrain,3,Game_3,2024-09-11,2.8,Mobile
+268,austinwilliam,2024-03-05,1983-01-20,Bahrain,3,Game_3,2024-09-11,2.8,Mobile
+269,maxwell60,2024-10-29,2003-11-03,Bahrain,2,Game_2,2023-02-10,2.8,Mobile
+270,ryan58,2024-09-02,1975-04-16,Bahrain,2,Game_2,2023-02-10,2.8,Mobile
+277,hansendorothy,2024-02-10,1989-06-24,Bahrain,4,Game_4,2023-03-19,2.1,Mobile
+279,brownaaron,2023-11-29,1987-07-10,Bahrain,6,Game_6,2024-05-31,2.6,Console
+280,boonecharles,2024-09-07,1980-10-06,Bahrain,9,Game_9,2024-05-20,1.1,Console
+281,philip44,2024-05-03,1984-11-03,Mauritius,4,Game_4,2023-03-19,2.1,Mobile
+286,mooneymichael,2024-03-17,1992-10-17,Mauritius,3,Game_3,2024-09-11,2.8,Mobile
+287,anita70,2024-10-29,1975-04-07,Mauritius,6,Game_6,2024-05-31,2.6,Console
+288,hhoover,2024-11-02,2000-05-08,Mauritius,3,Game_3,2024-09-11,2.8,Mobile
+289,kmyers,2024-02-19,2002-11-16,Mauritius,2,Game_2,2023-02-10,2.8,Mobile
+290,zhancock,2024-07-13,1977-07-08,Mauritius,4,Game_4,2023-03-19,2.1,Mobile
+291,lyonspamela,2024-10-19,1982-03-09,Mauritius,4,Game_4,2023-03-19,2.1,Mobile
+294,danielle74,2024-04-14,1994-05-16,Mauritius,3,Game_3,2024-09-11,2.8,Mobile
+295,mmarsh,2024-01-21,1989-04-14,Mauritius,10,Game_10,2024-01-20,2.3,Console
+296,sheryltrujillo,2024-08-09,2007-05-28,Mauritius,4,Game_4,2023-03-19,2.1,Mobile
+297,vchavez,2023-12-21,1993-08-13,Mauritius,4,Game_4,2023-03-19,2.1,Mobile
+298,becksamuel,2024-08-20,2005-11-02,Mauritius,6,Game_6,2024-05-31,2.6,Console
+300,perezgordon,2024-02-25,1987-06-26,Mauritius,6,Game_6,2024-05-31,2.6,Console
+301,reidgina,2024-10-24,1997-03-09,Mauritius,8,Game_8,2023-03-31,3.7,Console
+302,rortiz,2024-07-19,1975-11-22,Mauritius,3,Game_3,2024-09-11,2.8,Mobile
+303,thompsonbrittany,2023-11-20,1984-04-19,Mauritius,8,Game_8,2023-03-31,3.7,Console
+305,petersondaniel,2024-08-18,1981-01-03,Niue,6,Game_6,2024-05-31,2.6,Console
+307,curtis49,2024-08-21,1983-10-01,Niue,7,Game_7,2023-04-13,2.9,PC
+311,ronald82,2024-03-23,2002-01-13,Niue,9,Game_9,2024-05-20,1.1,Console
+313,lynnreeves,2024-06-04,2007-04-21,Niue,9,Game_9,2024-05-20,1.1,Console
+315,colemanbrittney,2024-01-30,1995-04-17,Niue,6,Game_6,2024-05-31,2.6,Console
+318,johnhamilton,2024-03-02,1988-02-10,Niue,4,Game_4,2023-03-19,2.1,Mobile
+319,obrienrobert,2024-11-06,1995-02-18,Niue,4,Game_4,2023-03-19,2.1,Mobile
+320,nicholastaylor,2024-06-23,1994-06-22,Niue,8,Game_8,2023-03-31,3.7,Console
+321,ywilliams,2024-09-18,1998-11-09,Niue,6,Game_6,2024-05-31,2.6,Console
+325,derekwalker,2024-02-09,2001-06-22,Niue,10,Game_10,2024-01-20,2.3,Console
+326,benjamin22,2024-08-07,1989-05-28,Niue,6,Game_6,2024-05-31,2.6,Console
+329,leonardlaura,2024-09-25,1996-05-30,Niue,10,Game_10,2024-01-20,2.3,Console
+331,jillgarcia,2024-10-04,2006-06-08,Niue,6,Game_6,2024-05-31,2.6,Console
+333,grahamjohn,2024-02-05,1976-02-06,Niue,2,Game_2,2023-02-10,2.8,Mobile
+334,brittany13,2023-12-22,1987-11-30,Niue,9,Game_9,2024-05-20,1.1,Console
+339,melissa78,2024-06-30,2001-03-26,Niue,8,Game_8,2023-03-31,3.7,Console
+340,uavery,2024-07-13,1983-01-29,Niue,5,Game_5,2024-05-10,3.3,Mobile
+341,rodriguezcourtney,2024-03-03,1976-07-19,Niue,9,Game_9,2024-05-20,1.1,Console
+342,mary88,2024-11-02,1991-01-15,Niue,9,Game_9,2024-05-20,1.1,Console
+343,wwalker,2024-05-03,1985-06-12,Niue,1,Game_1,2024-09-21,1.0,Console
+344,stricklanderik,2024-05-16,1995-03-28,Niue,8,Game_8,2023-03-31,3.7,Console
+345,wardelizabeth,2024-02-21,1993-12-18,Niue,8,Game_8,2023-03-31,3.7,Console
+347,james85,2024-10-18,1997-07-12,Niue,6,Game_6,2024-05-31,2.6,Console
+359,johnsonscott,2024-08-06,1995-10-01,Saint Martin,1,Game_1,2024-09-21,1.0,Console
+362,debra10,2024-05-02,1989-10-07,Saint Martin,7,Game_7,2023-04-13,2.9,PC
+363,phillipmyers,2024-01-23,2004-02-21,Saint Martin,6,Game_6,2024-05-31,2.6,Console
+366,hallmelanie,2024-10-08,2002-05-31,Saint Martin,4,Game_4,2023-03-19,2.1,Mobile
+367,william53,2024-07-27,2005-06-07,Saint Martin,4,Game_4,2023-03-19,2.1,Mobile
+368,yarcher,2024-02-24,1997-08-03,Saint Martin,8,Game_8,2023-03-31,3.7,Console
+371,monica16,2024-07-24,1977-02-25,Saint Martin,10,Game_10,2024-01-20,2.3,Console
+372,wgarcia,2024-05-13,1981-01-12,Saint Martin,7,Game_7,2023-04-13,2.9,PC
+373,benjamin40,2024-06-20,1999-08-01,Saint Martin,10,Game_10,2024-01-20,2.3,Console
+375,craiggarcia,2024-02-24,1996-01-24,Zimbabwe,6,Game_6,2024-05-31,2.6,Console
+377,gilmoredanny,2024-03-19,2003-03-23,Zimbabwe,4,Game_4,2023-03-19,2.1,Mobile
+379,michael05,2024-10-29,1985-03-02,Zimbabwe,6,Game_6,2024-05-31,2.6,Console
+381,karlapage,2024-06-11,1975-12-18,Zimbabwe,1,Game_1,2024-09-21,1.0,Console
+382,samuel61,2024-06-16,2001-06-27,Zimbabwe,7,Game_7,2023-04-13,2.9,PC
+385,danielsherman,2024-01-26,1988-09-10,Zimbabwe,9,Game_9,2024-05-20,1.1,Console
+386,melissagonzalez,2024-03-10,2002-01-12,Zimbabwe,5,Game_5,2024-05-10,3.3,Mobile
+394,madelinegarcia,2024-03-22,2004-02-14,Zimbabwe,5,Game_5,2024-05-10,3.3,Mobile
+397,kelsey32,2024-06-02,1975-03-07,Zimbabwe,7,Game_7,2023-04-13,2.9,PC
+398,casemarcus,2024-04-23,1987-01-11,Zimbabwe,4,Game_4,2023-03-19,2.1,Mobile
+399,daniel97,2024-07-08,1986-11-17,Zimbabwe,2,Game_2,2023-02-10,2.8,Mobile
+400,josephfreeman,2024-01-05,1989-10-26,Zimbabwe,8,Game_8,2023-03-31,3.7,Console
+401,davisnichole,2024-07-18,1975-09-12,Zimbabwe,5,Game_5,2024-05-10,3.3,Mobile
+403,margaret01,2024-06-29,1978-01-13,Zimbabwe,4,Game_4,2023-03-19,2.1,Mobile
+404,williamclark,2024-09-13,1977-03-30,Zimbabwe,2,Game_2,2023-02-10,2.8,Mobile
+405,ppalmer,2024-01-16,1980-03-10,Zimbabwe,8,Game_8,2023-03-31,3.7,Console
+407,melaniehall,2024-11-02,1999-05-08,Brunei Darussalam,4,Game_4,2023-03-19,2.1,Mobile
+409,jacksongregory,2024-06-02,1976-09-27,Brunei Darussalam,8,Game_8,2023-03-31,3.7,Console
+411,monica95,2024-06-11,1982-08-01,Brunei Darussalam,5,Game_5,2024-05-10,3.3,Mobile
+414,smithamanda,2024-06-06,1992-01-06,Brunei Darussalam,8,Game_8,2023-03-31,3.7,Console
+418,timothybyrd,2023-11-27,1994-11-16,Brunei Darussalam,6,Game_6,2024-05-31,2.6,Console
+420,leahhill,2024-07-31,1984-01-28,Brunei Darussalam,7,Game_7,2023-04-13,2.9,PC
+422,dayadam,2024-04-20,1991-08-11,Brunei Darussalam,10,Game_10,2024-01-20,2.3,Console
+424,christopher02,2024-07-13,1975-03-31,Trinidad and Tobago,8,Game_8,2023-03-31,3.7,Console
+425,dgrant,2024-03-20,2003-06-01,Kenya,10,Game_10,2024-01-20,2.3,Console
+427,lisaacevedo,2024-01-25,1978-05-12,Guyana,10,Game_10,2024-01-20,2.3,Console
+430,rmiller,2024-01-03,1999-06-19,United Arab Emirates,2,Game_2,2023-02-10,2.8,Mobile
+431,anndorsey,2024-10-17,1991-08-10,Saint Helena,8,Game_8,2023-03-31,3.7,Console
+432,qclark,2024-01-13,2007-05-20,Saint Helena,4,Game_4,2023-03-19,2.1,Mobile
+434,erica74,2024-10-24,2003-01-06,Saint Helena,5,Game_5,2024-05-10,3.3,Mobile
+435,richardsonmathew,2024-02-05,1995-02-07,Saint Helena,10,Game_10,2024-01-20,2.3,Console
+437,diana08,2024-06-29,1994-04-21,Saint Helena,8,Game_8,2023-03-31,3.7,Console
+438,xramos,2023-12-23,2006-06-29,Saint Helena,7,Game_7,2023-04-13,2.9,PC
+441,graydonna,2024-11-16,2005-01-20,Saint Helena,5,Game_5,2024-05-10,3.3,Mobile
+442,olivianeal,2024-02-28,2005-08-04,Saint Helena,3,Game_3,2024-09-11,2.8,Mobile
+444,amandalucas,2024-10-20,2006-02-10,Tunisia,4,Game_4,2023-03-19,2.1,Mobile
+446,nancy76,2024-06-18,1986-04-28,Tunisia,9,Game_9,2024-05-20,1.1,Console
+451,dmiller,2024-10-07,1984-06-09,Tunisia,10,Game_10,2024-01-20,2.3,Console
+454,arobertson,2024-05-09,1984-07-06,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+457,sean62,2024-06-02,2001-03-09,Tunisia,4,Game_4,2023-03-19,2.1,Mobile
+462,nelsonashley,2024-07-19,1990-06-10,Gabon,2,Game_2,2023-02-10,2.8,Mobile
+463,davisjohn,2024-01-09,1989-09-19,Gabon,9,Game_9,2024-05-20,1.1,Console
+465,petersonheather,2024-09-24,1989-05-26,Gabon,5,Game_5,2024-05-10,3.3,Mobile
+467,rickylindsey,2024-05-14,1975-10-25,Gabon,4,Game_4,2023-03-19,2.1,Mobile
+470,nelsonkaren,2023-12-08,1996-09-20,Gabon,10,Game_10,2024-01-20,2.3,Console
+472,pamela15,2024-10-23,1980-08-20,Gabon,6,Game_6,2024-05-31,2.6,Console
+473,carpenterterry,2024-10-08,1998-04-03,Gabon,3,Game_3,2024-09-11,2.8,Mobile
+474,crawfordariana,2024-04-08,1991-06-30,Gabon,5,Game_5,2024-05-10,3.3,Mobile
+475,victorchristensen,2023-12-16,1991-05-02,Gabon,3,Game_3,2024-09-11,2.8,Mobile
+477,amandagillespie,2024-05-13,1978-12-21,Gabon,8,Game_8,2023-03-31,3.7,Console
+482,victoria48,2023-12-05,1998-08-15,Gabon,2,Game_2,2023-02-10,2.8,Mobile
+484,antonioperry,2023-12-01,1989-10-04,Gabon,5,Game_5,2024-05-10,3.3,Mobile
+486,phillipsbrittany,2024-06-24,2002-11-08,Gabon,10,Game_10,2024-01-20,2.3,Console
+488,tiffany53,2024-08-05,1997-01-29,Gabon,9,Game_9,2024-05-20,1.1,Console
+492,abbottjuan,2024-09-17,1974-12-28,Pakistan,6,Game_6,2024-05-31,2.6,Console
+493,john95,2023-12-11,1984-01-30,Gabon,10,Game_10,2024-01-20,2.3,Console
+495,rebeccawise,2024-07-20,1977-10-18,Algeria,2,Game_2,2023-02-10,2.8,Mobile
+498,warekimberly,2024-02-28,2003-04-03,Ecuador,6,Game_6,2024-05-31,2.6,Console
+503,bholloway,2024-10-07,2002-04-24,Ecuador,4,Game_4,2023-03-19,2.1,Mobile
+504,csanders,2024-01-22,1986-10-06,Ecuador,3,Game_3,2024-09-11,2.8,Mobile
+506,patriciawatkins,2024-10-05,1990-03-05,Ecuador,8,Game_8,2023-03-31,3.7,Console
+508,jonesjessica,2024-05-23,1977-12-31,Ecuador,5,Game_5,2024-05-10,3.3,Mobile
+509,krodriguez,2024-07-19,1993-08-06,Ecuador,5,Game_5,2024-05-10,3.3,Mobile
+510,kbell,2024-10-22,1977-09-14,Ecuador,1,Game_1,2024-09-21,1.0,Console
+511,laurahebert,2024-04-07,1991-09-17,Ecuador,2,Game_2,2023-02-10,2.8,Mobile
+513,edwinpearson,2024-10-22,2006-03-05,Ecuador,2,Game_2,2023-02-10,2.8,Mobile
+518,stephenpatton,2024-01-05,1984-07-10,Ecuador,10,Game_10,2024-01-20,2.3,Console
+520,jameswilson,2024-07-28,1994-10-25,Ecuador,6,Game_6,2024-05-31,2.6,Console
+522,brenthenderson,2023-12-19,1979-08-14,Ecuador,4,Game_4,2023-03-19,2.1,Mobile
+525,donald09,2024-04-07,1975-06-13,Ecuador,7,Game_7,2023-04-13,2.9,PC
+527,benjamin83,2024-04-10,1986-12-05,Ecuador,5,Game_5,2024-05-10,3.3,Mobile
+533,vreynolds,2024-09-09,1980-05-01,Ecuador,10,Game_10,2024-01-20,2.3,Console
+534,linda68,2024-07-11,2006-11-02,Ecuador,3,Game_3,2024-09-11,2.8,Mobile
+535,xbarrett,2023-11-23,1983-10-02,Ecuador,6,Game_6,2024-05-31,2.6,Console
+536,tylerjones,2024-08-31,1995-12-18,Ecuador,6,Game_6,2024-05-31,2.6,Console
+537,silvaalexander,2024-02-06,1987-12-02,Ecuador,4,Game_4,2023-03-19,2.1,Mobile
+539,kinggary,2024-09-13,1985-04-08,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+540,erickelly,2024-10-12,2003-10-12,Jordan,2,Game_2,2023-02-10,2.8,Mobile
+541,schmidtmanuel,2024-03-09,2001-02-04,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+542,fibarra,2024-02-09,1993-01-25,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+546,patricia65,2024-01-09,1986-08-07,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+547,lanthony,2024-03-14,1995-03-17,Jordan,9,Game_9,2024-05-20,1.1,Console
+548,cskinner,2023-12-25,2002-10-15,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+549,vhicks,2024-09-12,1992-04-23,Jordan,8,Game_8,2023-03-31,3.7,Console
+552,frances25,2024-04-11,1988-02-02,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+555,elewis,2023-12-11,1982-02-12,Jordan,9,Game_9,2024-05-20,1.1,Console
+558,obutler,2024-01-31,1981-07-14,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+559,tfisher,2024-07-09,1975-01-14,Jordan,6,Game_6,2024-05-31,2.6,Console
+563,underwoodgerald,2024-02-16,1999-12-04,Jordan,6,Game_6,2024-05-31,2.6,Console
+565,angelamendoza,2024-02-11,1989-07-12,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+567,jenningsbrandon,2024-10-09,1999-01-16,Jordan,10,Game_10,2024-01-20,2.3,Console
+570,jenniferholmes,2024-05-20,2007-01-24,Jordan,7,Game_7,2023-04-13,2.9,PC
+571,michaelscott,2024-10-16,2005-10-30,Jordan,9,Game_9,2024-05-20,1.1,Console
+572,justingonzalez,2024-09-29,1991-06-07,Jordan,7,Game_7,2023-04-13,2.9,PC
+573,aaronbrown,2024-05-19,1983-06-29,Jordan,8,Game_8,2023-03-31,3.7,Console
+577,lisareynolds,2024-06-30,1988-10-19,Jordan,9,Game_9,2024-05-20,1.1,Console
+578,williamsrachel,2024-03-23,1987-11-22,Jordan,10,Game_10,2024-01-20,2.3,Console
+581,anthony28,2023-11-26,1977-08-10,Jordan,7,Game_7,2023-04-13,2.9,PC
+582,promero,2024-08-08,2006-08-28,Jordan,8,Game_8,2023-03-31,3.7,Console
+585,veronica07,2024-07-05,1993-07-11,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+587,rhonda50,2024-08-23,2004-04-25,Jordan,10,Game_10,2024-01-20,2.3,Console
+588,aprilbradley,2024-01-08,1989-12-26,Jordan,1,Game_1,2024-09-21,1.0,Console
+589,brownmichael,2024-06-22,2000-08-12,Jordan,8,Game_8,2023-03-31,3.7,Console
+591,krausezachary,2024-09-23,1978-01-16,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+593,kallen,2023-12-13,1986-01-12,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+594,ashley44,2024-08-15,1976-03-13,Jordan,4,Game_4,2023-03-19,2.1,Mobile
+595,codysanchez,2024-11-01,1975-03-13,Jordan,6,Game_6,2024-05-31,2.6,Console
+599,fernandeztamara,2024-09-07,1984-01-11,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+600,lindseysheppard,2024-05-15,1985-03-30,Jordan,4,Game_4,2023-03-19,2.1,Mobile
+601,uortiz,2024-08-05,1983-03-10,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+602,gordoncarol,2024-08-12,1976-01-23,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+603,thomaslucas,2024-03-16,1977-03-11,Jordan,3,Game_3,2024-09-11,2.8,Mobile
+605,tmoore,2024-10-12,1996-06-17,Jordan,8,Game_8,2023-03-31,3.7,Console
+606,hswanson,2024-05-25,2005-10-01,Jordan,1,Game_1,2024-09-21,1.0,Console
+607,nicole44,2024-08-17,1997-08-29,Jordan,5,Game_5,2024-05-10,3.3,Mobile
+609,kent05,2024-11-07,1998-12-01,Jordan,9,Game_9,2024-05-20,1.1,Console
+610,nelsoncameron,2024-06-16,2005-12-11,Jordan,7,Game_7,2023-04-13,2.9,PC
+611,rmiles,2024-01-10,1975-08-15,Jordan,8,Game_8,2023-03-31,3.7,Console
+614,donaldkerr,2024-07-31,1989-04-09,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+615,lisaaustin,2024-01-24,1981-01-01,Kiribati,1,Game_1,2024-09-21,1.0,Console
+622,kiddmitchell,2024-01-10,2003-07-18,Kiribati,10,Game_10,2024-01-20,2.3,Console
+623,larry40,2024-03-20,1975-12-25,Kiribati,8,Game_8,2023-03-31,3.7,Console
+624,andersondavid,2024-09-28,2003-04-03,Kiribati,1,Game_1,2024-09-21,1.0,Console
+625,coleerica,2024-09-27,1978-10-07,Kiribati,10,Game_10,2024-01-20,2.3,Console
+631,nicholsgreg,2024-10-07,1984-09-07,Kiribati,9,Game_9,2024-05-20,1.1,Console
+632,jacksonrhonda,2024-11-05,1998-10-22,Kiribati,9,Game_9,2024-05-20,1.1,Console
+633,ronaldwood,2024-09-03,2004-03-24,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+636,matthewdorsey,2024-08-12,1986-04-19,Kiribati,6,Game_6,2024-05-31,2.6,Console
+637,ghall,2024-03-31,1982-12-27,Kiribati,7,Game_7,2023-04-13,2.9,PC
+640,richard62,2024-01-06,1977-12-30,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+643,millssuzanne,2024-08-09,1999-11-23,Kiribati,7,Game_7,2023-04-13,2.9,PC
+644,davidharrison,2024-09-05,1980-09-19,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+645,andre31,2024-01-18,1998-05-03,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+646,nathaniel99,2023-12-05,1998-06-10,Kiribati,9,Game_9,2024-05-20,1.1,Console
+648,walterdeleon,2024-10-16,1982-01-26,Kiribati,6,Game_6,2024-05-31,2.6,Console
+653,christopherbartlett,2024-07-29,1997-08-23,Kiribati,3,Game_3,2024-09-11,2.8,Mobile
+656,snydergary,2024-01-19,1983-02-12,Kiribati,7,Game_7,2023-04-13,2.9,PC
+657,wilkinsonteresa,2023-11-29,1979-05-18,Kiribati,6,Game_6,2024-05-31,2.6,Console
+659,sean75,2024-03-05,1996-11-02,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+660,joneselizabeth,2024-05-28,1978-03-02,Kiribati,9,Game_9,2024-05-20,1.1,Console
+661,joneschristina,2024-05-28,1990-04-06,Kiribati,7,Game_7,2023-04-13,2.9,PC
+664,powersxavier,2024-03-13,1977-10-05,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+667,sharonobrien,2024-06-09,1982-07-11,Kiribati,3,Game_3,2024-09-11,2.8,Mobile
+670,scott52,2024-02-03,2000-01-20,Kiribati,4,Game_4,2023-03-19,2.1,Mobile
+676,juliayoung,2024-07-20,1977-11-21,Kiribati,3,Game_3,2024-09-11,2.8,Mobile
+679,bryanallison,2024-11-15,1991-07-01,Kiribati,6,Game_6,2024-05-31,2.6,Console
+683,michael77,2024-01-30,1994-05-05,Kiribati,10,Game_10,2024-01-20,2.3,Console
+685,jasmine72,2024-02-11,2004-05-27,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+686,nortiz,2024-08-11,2004-10-08,Kiribati,3,Game_3,2024-09-11,2.8,Mobile
+688,dunnalexander,2024-01-23,1993-02-18,Kiribati,8,Game_8,2023-03-31,3.7,Console
+689,elong,2023-12-23,1987-09-14,Kiribati,10,Game_10,2024-01-20,2.3,Console
+690,william24,2023-12-31,1984-11-23,Kiribati,7,Game_7,2023-04-13,2.9,PC
+692,daniel17,2024-01-02,1981-05-27,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+695,shelby65,2023-11-26,2006-08-28,Kiribati,10,Game_10,2024-01-20,2.3,Console
+696,dmadden,2024-02-21,1986-08-24,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+698,jennifergonzalez,2024-02-26,1975-09-10,Kiribati,9,Game_9,2024-05-20,1.1,Console
+699,rojastyler,2024-03-02,2004-04-29,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+701,dana03,2023-11-28,1988-02-15,Kiribati,9,Game_9,2024-05-20,1.1,Console
+702,kenneth00,2024-06-24,1997-07-31,Kiribati,1,Game_1,2024-09-21,1.0,Console
+703,gregory97,2024-03-13,1981-10-24,Kiribati,4,Game_4,2023-03-19,2.1,Mobile
+712,wscott,2024-08-25,1997-09-12,Kiribati,10,Game_10,2024-01-20,2.3,Console
+713,wbryant,2024-05-26,2004-10-30,Kiribati,1,Game_1,2024-09-21,1.0,Console
+715,isummers,2024-04-21,1987-09-29,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+716,tmoore,2024-06-10,1981-03-15,Kiribati,9,Game_9,2024-05-20,1.1,Console
+719,stephaniemaxwell,2024-05-24,1997-05-21,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+722,imartin,2024-04-19,1985-01-02,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+724,rachel01,2024-02-21,1991-08-30,Kiribati,1,Game_1,2024-09-21,1.0,Console
+726,kimberly04,2024-01-14,1977-03-09,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+728,christopher90,2024-04-27,1982-02-28,Kiribati,9,Game_9,2024-05-20,1.1,Console
+729,iluna,2024-10-15,1985-01-04,Kiribati,10,Game_10,2024-01-20,2.3,Console
+732,carlos49,2024-08-11,1985-09-10,Kiribati,10,Game_10,2024-01-20,2.3,Console
+735,johnsonronald,2024-08-09,1978-01-04,Kiribati,9,Game_9,2024-05-20,1.1,Console
+737,jonesmary,2023-11-18,2007-03-03,Kiribati,1,Game_1,2024-09-21,1.0,Console
+739,jerry64,2023-12-23,1981-04-05,Kiribati,3,Game_3,2024-09-11,2.8,Mobile
+740,kevinlarson,2024-05-17,1983-07-30,Kiribati,6,Game_6,2024-05-31,2.6,Console
+741,idoyle,2024-09-15,2003-12-11,Kiribati,9,Game_9,2024-05-20,1.1,Console
+742,nthompson,2024-06-09,1989-12-21,Kiribati,10,Game_10,2024-01-20,2.3,Console
+744,duncanharold,2024-10-18,1975-02-09,Kiribati,1,Game_1,2024-09-21,1.0,Console
+745,michaelmartinez,2024-09-08,1978-01-25,Kiribati,6,Game_6,2024-05-31,2.6,Console
+746,daniel07,2024-01-04,1976-07-20,Kiribati,1,Game_1,2024-09-21,1.0,Console
+747,bhuff,2024-03-29,1986-08-09,Kiribati,9,Game_9,2024-05-20,1.1,Console
+748,kelly61,2023-12-07,1998-01-29,Kiribati,9,Game_9,2024-05-20,1.1,Console
+753,yvonneclarke,2024-10-17,1982-09-27,Kiribati,6,Game_6,2024-05-31,2.6,Console
+754,heather83,2024-10-19,2006-07-18,Kiribati,4,Game_4,2023-03-19,2.1,Mobile
+755,iharmon,2023-11-20,1978-06-28,Kiribati,9,Game_9,2024-05-20,1.1,Console
+758,sheachristy,2024-10-12,1987-01-17,Kiribati,1,Game_1,2024-09-21,1.0,Console
+760,theresawilliams,2024-02-07,1982-05-13,Kiribati,6,Game_6,2024-05-31,2.6,Console
+761,haleyamy,2024-06-03,1991-03-27,Kiribati,7,Game_7,2023-04-13,2.9,PC
+764,reedregina,2024-07-20,1976-10-07,Kiribati,6,Game_6,2024-05-31,2.6,Console
+769,dorothymiller,2024-03-06,1983-04-14,Kiribati,7,Game_7,2023-04-13,2.9,PC
+770,pearsoncaroline,2024-08-15,1987-03-02,Kiribati,3,Game_3,2024-09-11,2.8,Mobile
+772,ryan59,2024-01-15,1979-09-13,Kiribati,4,Game_4,2023-03-19,2.1,Mobile
+773,mark20,2024-11-08,1977-09-21,Kiribati,1,Game_1,2024-09-21,1.0,Console
+776,brian06,2024-08-26,1978-12-06,Kiribati,4,Game_4,2023-03-19,2.1,Mobile
+777,brianna67,2023-12-01,2002-11-09,Kiribati,6,Game_6,2024-05-31,2.6,Console
+778,michael72,2024-02-29,1983-01-25,Kiribati,6,Game_6,2024-05-31,2.6,Console
+781,robertryan,2024-05-25,2007-05-26,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+782,candace69,2024-09-08,1981-05-12,Kiribati,7,Game_7,2023-04-13,2.9,PC
+783,fergusoncrystal,2023-11-19,1988-10-28,Kiribati,2,Game_2,2023-02-10,2.8,Mobile
+784,gmiller,2024-11-14,1983-01-08,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+785,ryan78,2024-06-24,2005-04-09,Kiribati,5,Game_5,2024-05-10,3.3,Mobile
+787,pmclaughlin,2024-07-17,1982-06-21,Kiribati,9,Game_9,2024-05-20,1.1,Console
+790,jgarcia,2024-08-09,1978-09-08,Kiribati,8,Game_8,2023-03-31,3.7,Console
+794,sherribean,2024-01-19,1996-02-19,Kiribati,1,Game_1,2024-09-21,1.0,Console
+795,stephaniewilliams,2024-05-11,1999-05-16,Kiribati,1,Game_1,2024-09-21,1.0,Console
+796,kmoore,2024-10-13,1995-05-25,Kiribati,1,Game_1,2024-09-21,1.0,Console
+800,rgreene,2024-03-11,1975-08-22,Kiribati,7,Game_7,2023-04-13,2.9,PC
+802,annette55,2024-04-28,1981-07-23,Tunisia,4,Game_4,2023-03-19,2.1,Mobile
+804,qjacobson,2024-10-31,1995-03-16,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+807,underwoodcharles,2024-01-17,2003-11-25,Tunisia,10,Game_10,2024-01-20,2.3,Console
+808,nicole60,2024-10-03,1997-06-22,Tunisia,7,Game_7,2023-04-13,2.9,PC
+809,hdeleon,2024-02-02,2003-03-26,Tunisia,5,Game_5,2024-05-10,3.3,Mobile
+810,michaelwoods,2024-10-05,1976-05-06,Tunisia,6,Game_6,2024-05-31,2.6,Console
+812,ebonygomez,2024-03-30,1989-08-11,Tunisia,7,Game_7,2023-04-13,2.9,PC
+814,newtonjennifer,2024-11-01,1997-07-23,Tunisia,6,Game_6,2024-05-31,2.6,Console
+817,nmarshall,2024-07-03,1975-02-06,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+819,mharris,2024-03-14,2002-09-25,Tunisia,3,Game_3,2024-09-11,2.8,Mobile
+820,kingrobert,2024-08-16,1978-09-18,Tunisia,4,Game_4,2023-03-19,2.1,Mobile
+823,jaredbeard,2024-05-21,1976-11-02,Tunisia,9,Game_9,2024-05-20,1.1,Console
+824,qhayes,2024-01-08,1998-01-15,Tunisia,1,Game_1,2024-09-21,1.0,Console
+825,dwilson,2024-11-02,1990-09-29,Tunisia,5,Game_5,2024-05-10,3.3,Mobile
+826,gmartinez,2024-05-30,1980-02-10,Tunisia,10,Game_10,2024-01-20,2.3,Console
+829,msalas,2024-02-03,1989-06-03,Tunisia,7,Game_7,2023-04-13,2.9,PC
+830,danielbradley,2024-08-29,1979-10-07,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+835,michaelmarks,2024-04-28,2004-02-02,Tunisia,6,Game_6,2024-05-31,2.6,Console
+839,dean17,2024-03-10,1985-01-01,Tunisia,3,Game_3,2024-09-11,2.8,Mobile
+840,wmartin,2024-08-04,1989-08-26,Tunisia,10,Game_10,2024-01-20,2.3,Console
+841,ramirezpenny,2023-11-30,1992-05-18,Tunisia,5,Game_5,2024-05-10,3.3,Mobile
+842,woodedgar,2024-06-15,1982-10-31,Tunisia,9,Game_9,2024-05-20,1.1,Console
+844,ryan81,2024-08-15,2002-01-02,Tunisia,10,Game_10,2024-01-20,2.3,Console
+846,jacob75,2024-05-13,1982-12-28,Tunisia,1,Game_1,2024-09-21,1.0,Console
+850,loretta64,2024-02-29,1976-03-05,Tunisia,3,Game_3,2024-09-11,2.8,Mobile
+851,mgardner,2024-09-29,2006-09-30,Tunisia,6,Game_6,2024-05-31,2.6,Console
+852,matthew98,2024-08-30,1982-09-11,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+853,mariamoyer,2024-01-03,1989-08-12,Tunisia,7,Game_7,2023-04-13,2.9,PC
+860,angelamoody,2024-09-09,1989-05-05,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+861,wilkinsmelinda,2024-02-12,1992-12-26,Tunisia,8,Game_8,2023-03-31,3.7,Console
+862,sonia53,2024-01-02,1995-02-13,Tunisia,7,Game_7,2023-04-13,2.9,PC
+864,danielmurphy,2024-05-27,1998-12-13,Tunisia,1,Game_1,2024-09-21,1.0,Console
+866,beth49,2024-09-25,1984-05-07,Tunisia,3,Game_3,2024-09-11,2.8,Mobile
+870,sanderswalter,2024-08-04,1985-03-22,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+873,stanleycox,2024-01-27,1998-11-02,Tunisia,1,Game_1,2024-09-21,1.0,Console
+874,deborahhopkins,2024-06-25,1999-05-21,Tunisia,7,Game_7,2023-04-13,2.9,PC
+875,dwang,2024-10-14,1982-01-22,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+876,cwilliams,2024-07-15,2007-09-11,Tunisia,3,Game_3,2024-09-11,2.8,Mobile
+877,beckygonzalez,2024-02-16,1981-12-25,Tunisia,4,Game_4,2023-03-19,2.1,Mobile
+880,ronaldbyrd,2024-05-03,2000-08-23,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+881,ebrown,2024-07-21,2000-06-19,Tunisia,3,Game_3,2024-09-11,2.8,Mobile
+891,nicole12,2024-03-22,1977-10-18,Tunisia,7,Game_7,2023-04-13,2.9,PC
+892,steinjeffery,2024-10-15,1976-05-15,Tunisia,8,Game_8,2023-03-31,3.7,Console
+893,melissasnyder,2024-09-01,1975-03-15,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+896,howardapril,2024-06-17,1993-04-27,Tunisia,6,Game_6,2024-05-31,2.6,Console
+898,amandabullock,2024-08-23,1979-09-02,Tunisia,1,Game_1,2024-09-21,1.0,Console
+901,jonesrachel,2024-08-18,1986-09-26,Tunisia,8,Game_8,2023-03-31,3.7,Console
+904,wmendoza,2024-10-20,2007-11-16,Tunisia,5,Game_5,2024-05-10,3.3,Mobile
+905,davisshari,2024-07-29,2004-04-05,Tunisia,1,Game_1,2024-09-21,1.0,Console
+908,carolyn59,2024-09-06,1989-11-23,Tunisia,2,Game_2,2023-02-10,2.8,Mobile
+909,melaniehall,2024-08-29,1985-06-25,Tunisia,7,Game_7,2023-04-13,2.9,PC
+910,uwilson,2024-06-06,2004-05-30,Tunisia,6,Game_6,2024-05-31,2.6,Console
+912,browndonald,2024-10-24,2001-09-24,Tunisia,4,Game_4,2023-03-19,2.1,Mobile
+913,pgreen,2024-04-03,1993-03-27,Tunisia,5,Game_5,2024-05-10,3.3,Mobile
+915,davisashley,2024-10-10,1976-01-22,Egypt,7,Game_7,2023-04-13,2.9,PC
+917,murphycraig,2024-04-24,1979-07-26,Egypt,6,Game_6,2024-05-31,2.6,Console
+918,juliehall,2024-06-06,2005-12-14,Egypt,6,Game_6,2024-05-31,2.6,Console
+919,cody35,2024-10-04,1982-03-07,Egypt,9,Game_9,2024-05-20,1.1,Console
+922,beth47,2024-09-19,1984-04-17,Egypt,6,Game_6,2024-05-31,2.6,Console
+923,meyerskenneth,2024-03-02,1995-03-13,Egypt,10,Game_10,2024-01-20,2.3,Console
+924,brittany68,2024-08-01,2001-08-16,Egypt,8,Game_8,2023-03-31,3.7,Console
+925,pamelaolsen,2023-12-29,1977-01-03,Egypt,3,Game_3,2024-09-11,2.8,Mobile
+926,greenryan,2024-09-30,1990-09-01,Egypt,3,Game_3,2024-09-11,2.8,Mobile
+928,lmurphy,2024-08-30,1989-05-11,Egypt,2,Game_2,2023-02-10,2.8,Mobile
+929,qjohnson,2024-07-11,1984-12-22,Egypt,8,Game_8,2023-03-31,3.7,Console
+930,devans,2024-08-14,2005-03-18,Egypt,8,Game_8,2023-03-31,3.7,Console
+931,burnsjoseph,2024-09-18,2002-02-22,Egypt,6,Game_6,2024-05-31,2.6,Console
+932,ejohnson,2024-08-20,1988-10-21,Egypt,6,Game_6,2024-05-31,2.6,Console
+933,lawsonelizabeth,2024-04-06,1999-07-24,Egypt,3,Game_3,2024-09-11,2.8,Mobile
+934,jasmine58,2024-07-03,1989-07-14,Egypt,7,Game_7,2023-04-13,2.9,PC
+935,robert63,2024-06-30,2001-09-14,Egypt,9,Game_9,2024-05-20,1.1,Console
+938,carolmartinez,2024-03-30,1989-04-30,Egypt,10,Game_10,2024-01-20,2.3,Console
+940,millermichael,2024-04-06,2007-01-04,Egypt,7,Game_7,2023-04-13,2.9,PC
+942,ajimenez,2024-04-17,2006-06-16,Egypt,7,Game_7,2023-04-13,2.9,PC
+944,shortdonald,2024-10-20,1979-12-06,Egypt,1,Game_1,2024-09-21,1.0,Console
+945,kellyhill,2024-08-04,2007-05-17,Egypt,1,Game_1,2024-09-21,1.0,Console
+946,heather59,2024-07-21,1989-06-10,Egypt,10,Game_10,2024-01-20,2.3,Console
+949,moodyleah,2024-09-30,1990-09-14,Egypt,9,Game_9,2024-05-20,1.1,Console
+952,michaelsmith,2024-05-30,1976-03-20,Egypt,10,Game_10,2024-01-20,2.3,Console
+953,wilsonjose,2024-01-08,1995-02-10,Egypt,7,Game_7,2023-04-13,2.9,PC
+954,jray,2024-04-17,1996-01-22,Egypt,1,Game_1,2024-09-21,1.0,Console
+955,davidkimberly,2024-03-01,1984-08-25,Egypt,10,Game_10,2024-01-20,2.3,Console
+957,scottallison,2024-10-17,1995-08-24,Egypt,2,Game_2,2023-02-10,2.8,Mobile
+962,jodidavis,2024-07-03,1995-11-21,Egypt,3,Game_3,2024-09-11,2.8,Mobile
+963,brandyreeves,2024-10-21,2002-08-21,Egypt,9,Game_9,2024-05-20,1.1,Console
+964,melinda16,2024-06-29,1976-10-05,Egypt,4,Game_4,2023-03-19,2.1,Mobile
+967,jonathandyer,2024-03-04,1977-06-09,Egypt,2,Game_2,2023-02-10,2.8,Mobile
+969,harrismary,2024-10-27,1988-08-04,Egypt,1,Game_1,2024-09-21,1.0,Console
+970,linda91,2024-02-21,1988-07-19,Egypt,1,Game_1,2024-09-21,1.0,Console
+971,ahanson,2024-01-29,2000-11-19,Egypt,9,Game_9,2024-05-20,1.1,Console
+973,james04,2024-06-08,1976-07-30,Egypt,3,Game_3,2024-09-11,2.8,Mobile
+979,schaeferjeremiah,2023-11-27,1977-06-19,Egypt,1,Game_1,2024-09-21,1.0,Console
+980,sheritaylor,2024-04-26,1980-03-06,Egypt,5,Game_5,2024-05-10,3.3,Mobile
+981,robinsondaniel,2024-10-12,2004-08-27,Egypt,6,Game_6,2024-05-31,2.6,Console
+982,lisacook,2023-12-09,1991-07-26,Bahamas,3,Game_3,2024-09-11,2.8,Mobile
+986,sandra60,2024-05-08,2002-08-28,Bahamas,5,Game_5,2024-05-10,3.3,Mobile
+988,gmathews,2024-05-18,1997-02-12,Bahamas,2,Game_2,2023-02-10,2.8,Mobile
+990,michael95,2024-10-24,2000-01-17,Bahamas,6,Game_6,2024-05-31,2.6,Console
+991,jessica23,2024-04-07,1983-02-11,Bahamas,1,Game_1,2024-09-21,1.0,Console
+994,stevenmartinez,2024-03-30,2001-06-30,Bahamas,1,Game_1,2024-09-21,1.0,Console
+995,vpatel,2024-10-13,1988-03-12,Bahamas,10,Game_10,2024-01-20,2.3,Console
+996,leslie80,2024-04-13,1995-03-07,Bahamas,10,Game_10,2024-01-20,2.3,Console
+997,brandonthomas,2024-08-09,2004-04-18,Bahamas,2,Game_2,2023-02-10,2.8,Mobile
+998,emily49,2024-06-04,2006-09-24,Bahamas,4,Game_4,2023-03-19,2.1,Mobile

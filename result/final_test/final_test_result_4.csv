@@ -1,0 +1,264 @@
+country,game_id,game_title,total_play_session,game_rank
+Afghanistan,10,Game_10,20,1
+Albania,5,Game_5,60,1
+Algeria,2,Game_2,60,1
+American Samoa,8,Game_8,68,1
+Andorra,9,Game_9,60,1
+Angola,7,Game_7,42,1
+Anguilla,2,Game_2,41,1
+Antarctica (the territory South of 60 deg S),6,Game_6,22,1
+Antigua and Barbuda,10,Game_10,22,1
+Argentina,10,Game_10,22,1
+Armenia,1,Game_1,24,1
+Aruba,6,Game_6,35,1
+Australia,10,Game_10,43,1
+Austria,6,Game_6,16,1
+Azerbaijan,7,Game_7,53,1
+Bahamas,10,Game_10,56,1
+Bahrain,8,Game_8,63,1
+Bangladesh,3,Game_3,40,1
+Barbados,7,Game_7,23,1
+Barbados,6,Game_6,23,1
+Belarus,2,Game_2,22,1
+Belgium,7,Game_7,40,1
+Belize,8,Game_8,38,1
+Benin,3,Game_3,46,1
+Bermuda,3,Game_3,40,1
+Bhutan,4,Game_4,25,1
+Bolivia,8,Game_8,39,1
+Bosnia and Herzegovina,9,Game_9,24,1
+Botswana,9,Game_9,26,1
+Bouvet Island (Bouvetoya),5,Game_5,42,1
+Brazil,4,Game_4,40,1
+British Indian Ocean Territory (Chagos Archipelago),9,Game_9,39,1
+British Virgin Islands,6,Game_6,25,1
+Brunei Darussalam,8,Game_8,21,1
+Bulgaria,7,Game_7,24,1
+Burkina Faso,2,Game_2,23,1
+Burundi,10,Game_10,22,1
+Burundi,4,Game_4,22,1
+Cambodia,10,Game_10,16,1
+Cameroon,9,Game_9,19,1
+Canada,6,Game_6,36,1
+Cape Verde,7,Game_7,22,1
+Cayman Islands,3,Game_3,43,1
+Central African Republic,9,Game_9,61,1
+Chad,8,Game_8,21,1
+Chad,4,Game_4,21,1
+Chile,9,Game_9,24,1
+Christmas Island,6,Game_6,39,1
+Cocos (Keeling) Islands,9,Game_9,19,1
+Colombia,8,Game_8,40,1
+Comoros,4,Game_4,23,1
+Congo,3,Game_3,42,1
+Cook Islands,4,Game_4,76,1
+Costa Rica,3,Game_3,35,1
+Cote d'Ivoire,6,Game_6,24,1
+Cote d'Ivoire,9,Game_9,24,1
+Croatia,5,Game_5,37,1
+Cuba,8,Game_8,18,1
+Cuba,2,Game_2,18,1
+Cuba,1,Game_1,18,1
+Cyprus,9,Game_9,21,1
+Czech Republic,7,Game_7,24,1
+Denmark,3,Game_3,23,1
+Djibouti,1,Game_1,46,1
+Dominica,10,Game_10,21,1
+Dominican Republic,5,Game_5,23,1
+Ecuador,3,Game_3,37,1
+Egypt,7,Game_7,22,1
+Egypt,1,Game_1,22,1
+Egypt,3,Game_3,22,1
+El Salvador,3,Game_3,21,1
+Equatorial Guinea,7,Game_7,20,1
+Eritrea,1,Game_1,42,1
+Estonia,7,Game_7,40,1
+Ethiopia,1,Game_1,20,1
+Falkland Islands (Malvinas),3,Game_3,43,1
+Faroe Islands,1,Game_1,21,1
+Fiji,9,Game_9,41,1
+Finland,10,Game_10,21,1
+Finland,5,Game_5,21,1
+France,6,Game_6,41,1
+French Guiana,9,Game_9,22,1
+French Polynesia,7,Game_7,23,1
+French Southern Territories,6,Game_6,39,1
+Gabon,6,Game_6,66,1
+Gambia,6,Game_6,37,1
+Germany,8,Game_8,23,1
+Ghana,5,Game_5,19,1
+Gibraltar,9,Game_9,83,1
+Greece,7,Game_7,38,1
+Greenland,6,Game_6,22,1
+Grenada,4,Game_4,43,1
+Guadeloupe,2,Game_2,20,1
+Guadeloupe,9,Game_9,20,1
+Guam,9,Game_9,43,1
+Guatemala,4,Game_4,39,1
+Guernsey,6,Game_6,22,1
+Guinea,7,Game_7,31,1
+Guinea-Bissau,7,Game_7,40,1
+Guyana,6,Game_6,21,1
+Haiti,1,Game_1,21,1
+Haiti,9,Game_9,21,1
+Heard Island and McDonald Islands,2,Game_2,36,1
+Holy See (Vatican City State),6,Game_6,23,1
+Honduras,2,Game_2,42,1
+Hong Kong,10,Game_10,63,1
+Hungary,8,Game_8,61,1
+Iceland,5,Game_5,21,1
+Iceland,6,Game_6,21,1
+Iceland,10,Game_10,21,1
+India,1,Game_1,44,1
+Indonesia,5,Game_5,19,1
+Iran,2,Game_2,25,1
+Iraq,8,Game_8,61,1
+Ireland,4,Game_4,44,1
+Isle of Man,5,Game_5,24,1
+Italy,3,Game_3,36,1
+Jamaica,10,Game_10,20,1
+Japan,8,Game_8,40,1
+Jersey,7,Game_7,42,1
+Jordan,9,Game_9,18,1
+Kazakhstan,9,Game_9,21,1
+Kenya,10,Game_10,36,1
+Kiribati,7,Game_7,44,1
+Korea,3,Game_3,58,1
+Kuwait,1,Game_1,37,1
+Kyrgyz Republic,9,Game_9,23,1
+Lao People's Democratic Republic,7,Game_7,20,1
+Latvia,10,Game_10,35,1
+Lebanon,2,Game_2,41,1
+Lesotho,5,Game_5,41,1
+Liberia,10,Game_10,45,1
+Libyan Arab Jamahiriya,10,Game_10,18,1
+Libyan Arab Jamahiriya,5,Game_5,18,1
+Liechtenstein,2,Game_2,24,1
+Lithuania,3,Game_3,17,1
+Lithuania,5,Game_5,17,1
+Luxembourg,8,Game_8,39,1
+Macao,6,Game_6,20,1
+Macao,9,Game_9,20,1
+Madagascar,4,Game_4,20,1
+Malawi,10,Game_10,25,1
+Malaysia,2,Game_2,23,1
+Maldives,6,Game_6,43,1
+Mali,2,Game_2,23,1
+Malta,10,Game_10,23,1
+Marshall Islands,6,Game_6,47,1
+Martinique,10,Game_10,39,1
+Mauritania,10,Game_10,24,1
+Mauritius,4,Game_4,34,1
+Mayotte,10,Game_10,53,1
+Mexico,2,Game_2,22,1
+Micronesia,7,Game_7,47,1
+Moldova,3,Game_3,22,1
+Monaco,4,Game_4,21,1
+Mongolia,5,Game_5,45,1
+Montenegro,3,Game_3,40,1
+Montserrat,7,Game_7,43,1
+Morocco,5,Game_5,42,1
+Mozambique,2,Game_2,25,1
+Myanmar,4,Game_4,19,1
+Namibia,7,Game_7,37,1
+Nauru,4,Game_4,46,1
+Nepal,6,Game_6,39,1
+Netherlands,3,Game_3,22,1
+Netherlands Antilles,1,Game_1,34,1
+New Caledonia,3,Game_3,37,1
+New Zealand,9,Game_9,27,1
+Nicaragua,6,Game_6,21,1
+Niger,7,Game_7,24,1
+Nigeria,1,Game_1,55,1
+Niue,10,Game_10,20,1
+Norfolk Island,6,Game_6,43,1
+North Macedonia,2,Game_2,42,1
+Northern Mariana Islands,2,Game_2,20,1
+Norway,6,Game_6,46,1
+Oman,6,Game_6,17,1
+Pakistan,1,Game_1,62,1
+Palau,10,Game_10,60,1
+Palestinian Territory,5,Game_5,44,1
+Panama,6,Game_6,56,1
+Papua New Guinea,4,Game_4,20,1
+Papua New Guinea,1,Game_1,20,1
+Paraguay,4,Game_4,18,1
+Paraguay,1,Game_1,18,1
+Paraguay,5,Game_5,18,1
+Peru,2,Game_2,20,1
+Philippines,3,Game_3,22,1
+Philippines,2,Game_2,22,1
+Philippines,5,Game_5,22,1
+Pitcairn Islands,6,Game_6,19,1
+Pitcairn Islands,4,Game_4,19,1
+Poland,2,Game_2,44,1
+Portugal,9,Game_9,21,1
+Puerto Rico,9,Game_9,25,1
+Qatar,6,Game_6,23,1
+Reunion,9,Game_9,38,1
+Romania,8,Game_8,41,1
+Russian Federation,3,Game_3,22,1
+Rwanda,8,Game_8,42,1
+Saint Barthelemy,4,Game_4,22,1
+Saint Helena,8,Game_8,44,1
+Saint Kitts and Nevis,6,Game_6,40,1
+Saint Lucia,2,Game_2,21,1
+Saint Martin,2,Game_2,21,1
+Saint Pierre and Miquelon,6,Game_6,20,1
+Saint Vincent and the Grenadines,1,Game_1,41,1
+Samoa,5,Game_5,22,1
+San Marino,2,Game_2,22,1
+Sao Tome and Principe,9,Game_9,42,1
+Saudi Arabia,9,Game_9,22,1
+Senegal,9,Game_9,20,1
+Serbia,1,Game_1,23,1
+Seychelles,4,Game_4,42,1
+Sierra Leone,6,Game_6,43,1
+Singapore,6,Game_6,21,1
+Slovakia (Slovak Republic),2,Game_2,23,1
+Slovenia,5,Game_5,68,1
+Solomon Islands,10,Game_10,44,1
+Somalia,5,Game_5,37,1
+South Africa,5,Game_5,18,1
+South Georgia and the South Sandwich Islands,2,Game_2,22,1
+Spain,4,Game_4,20,1
+Sri Lanka,3,Game_3,56,1
+Sudan,10,Game_10,36,1
+Suriname,8,Game_8,35,1
+Svalbard & Jan Mayen Islands,4,Game_4,53,1
+Swaziland,5,Game_5,24,1
+Sweden,5,Game_5,23,1
+Switzerland,3,Game_3,23,1
+Syrian Arab Republic,2,Game_2,42,1
+Taiwan,5,Game_5,43,1
+Tajikistan,1,Game_1,35,1
+Tanzania,8,Game_8,32,1
+Thailand,3,Game_3,50,1
+Timor-Leste,10,Game_10,23,1
+Togo,10,Game_10,18,1
+Tokelau,8,Game_8,51,1
+Tonga,5,Game_5,47,1
+Trinidad and Tobago,6,Game_6,44,1
+Tunisia,4,Game_4,64,1
+Turkey,6,Game_6,23,1
+Turkmenistan,3,Game_3,18,1
+Turks and Caicos Islands,8,Game_8,22,1
+Tuvalu,8,Game_8,23,1
+Uganda,10,Game_10,19,1
+Ukraine,5,Game_5,46,1
+United Arab Emirates,10,Game_10,46,1
+United Kingdom,4,Game_4,46,1
+United States Minor Outlying Islands,7,Game_7,20,1
+United States of America,1,Game_1,22,1
+United States of America,7,Game_7,22,1
+Uruguay,9,Game_9,37,1
+Uzbekistan,6,Game_6,39,1
+Vanuatu,1,Game_1,41,1
+Venezuela,6,Game_6,22,1
+Vietnam,6,Game_6,43,1
+Wallis and Futuna,9,Game_9,22,1
+Wallis and Futuna,5,Game_5,22,1
+Western Sahara,4,Game_4,22,1
+Yemen,5,Game_5,44,1
+Zambia,8,Game_8,35,1
+Zimbabwe,8,Game_8,44,1

@@ -1,0 +1,8 @@
+event,total_events,distinct_users
+level_up,531,295
+login,2817,629
+logout,2817,629
+play_end,5684,629
+play_start,5684,629
+bug_report,308,217
+purchase,153,130

@@ -1,0 +1,11 @@
+game_id,game_title,launch_date,version,platform
+1,Game_1,2024-09-21,1.0,Console
+2,Game_2,2023-02-10,2.8,Mobile
+3,Game_3,2024-09-11,2.8,Mobile
+4,Game_4,2023-03-19,2.1,Mobile
+5,Game_5,2024-05-10,3.3,Mobile
+6,Game_6,2024-05-31,2.6,Console
+7,Game_7,2023-04-13,2.9,PC
+8,Game_8,2023-03-31,3.7,Console
+9,Game_9,2024-05-20,1.1,Console
+10,Game_10,2024-01-20,2.3,Console
