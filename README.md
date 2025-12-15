@@ -4,25 +4,31 @@
 This repository contains a collection of SQL analytics projects built on Google BigQuery, focusing on data cleaning, transformation, and analytical reporting using realistic business datasets.
 The project demonstrates strong SQL fundamentals, advanced BigQuery features, and clear analytical thinking suitable for Data Analyst / Analytics Engineer roles.
 
-**Repository Structure**
-.
-├── database
-│   ├── K308
+## Repository Structure
+
+```text
+BigquerySQL_demo/
+├── database/
+│   ├── K308/
 │   │   ├── game_profile.csv
 │   │   ├── user_event.csv
 │   │   ├── user_profile.csv
 │   │   └── Table Explanation.docx
-│   │
-│   └── mydatabase
+│   └── mydatabase/
 │       ├── Ex_19.csv
 │       └── sales_tab.csv
 │
-├── result
-│   ├── clean_rev_cost_transaction
+├── sql/
+│   ├── 20251127_Clean_rev_cost_transaction.sql
+│   ├── 20251128_staff_performance.sql
+│   └── final_test.sql
+│
+├── result/
+│   ├── clean_rev_cost_transaction/
 │   │   ├── 20251127_Clean_rev_cost_transaction_result.csv
 │   │   └── 20251127_Clean_rev_cost_transaction_result.png
 │   │
-│   ├── final_test
+│   ├── final_test/
 │   │   ├── final_test_result_1.csv
 │   │   ├── final_test_result_2.csv
 │   │   ├── final_test_result_3.csv
@@ -34,11 +40,13 @@ The project demonstrates strong SQL fundamentals, advanced BigQuery features, an
 │   │   ├── final_test_result_9.csv
 │   │   └── final_test_result_10.csv
 │   │
-│   └── staff_performance
+│   └── staff_performance/
 │       ├── 20251128_staff_performance_result_1.csv
 │       ├── 20251128_staff_performance_result_1.png
 │       ├── 20251128_staff_performance_result_2.csv
 │       └── 20251128_staff_performance_result_2.png
+│
+└── README.md
 
 **Dataset Overview**
 
