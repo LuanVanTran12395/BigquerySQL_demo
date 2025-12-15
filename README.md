@@ -1,5 +1,5 @@
 # BigquerySQL_demo
-**BigQuery SQL Analytics Portfolio**
+## BigQuery SQL Analytics Portfolio**
 
 This repository contains a collection of SQL analytics projects built on Google BigQuery, focusing on data cleaning, transformation, and analytical reporting using realistic business datasets.
 The project demonstrates strong SQL fundamentals, advanced BigQuery features, and clear analytical thinking suitable for Data Analyst / Analytics Engineer roles.
@@ -48,9 +48,10 @@ BigquerySQL_demo/
 │
 └── README.md
 
-**Dataset Overview**
+## Dataset Overview
 
-***K308 Dataset (Game Analytics)***
+### K308 Dataset
+
 Located in database/K308/
 	•	user_profile.csv
 User demographic information (user_id, country, date_of_birth, joined_date)
@@ -61,7 +62,7 @@ Game metadata (game_id, game_title, platform, version)
 	•	Table Explanation.docx
 Detailed explanation of table schema and relationships
 
-***Practice Dataset***
+## Practice Dataset
 
 Located in database/mydatabase/
 	•	sales_tab.csv
